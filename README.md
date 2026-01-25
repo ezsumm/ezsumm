@@ -31,15 +31,3 @@ const developer = {
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourname/yourname/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourname/yourname/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
