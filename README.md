@@ -34,12 +34,16 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ezsumm/ezsumm/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw1ZzZkcDZ5ZWFjcG81aTV5eWdlb3o2ZjJlMnJ5ZzI3cHZwYmwzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.gif" alt="" width="100%" />
 </div>
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ezsumm&theme=dracula" width="100%" />
+  </a>
 </div>
 
