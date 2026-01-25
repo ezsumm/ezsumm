@@ -66,7 +66,7 @@ I am a Code Hashira, forging scalable systems and refined interfaces through rel
 
 </td>
 <td valign="center" width="40%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzkybHhudWNtOGZjaTdudXkyMDIwdHBrNjEwMnNwZmoxZDU1cGJyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sN7crzKxbgG8IuBNTf/giphy.gif" width="100%" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzkybHhudWNtOGZjaTdudXkyMDIwdHBrNjEwMnNwZmoxZDU1cGJyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sN7crzKxbgG8IuBNTf/giphy.gif" width="400" alt="Coding GIF" />
 </td>
 </tr>
 </table>
