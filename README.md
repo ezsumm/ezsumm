@@ -51,8 +51,8 @@
 ---
 
 <table>
-  <tr>
-    <td valign="top" width="60%">
+<tr>
+<td valign="top" width="60%">
 
 <div align="justify">
 
@@ -64,11 +64,13 @@ I am a Code Hashira, forging scalable systems and refined interfaces through rel
 
 </div>
 
-    </td>
-    <td valign="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzkybHhudWNtOGZjaTdudXkyMDIwdHBrNjEwMnNwZmoxZDU1cGJyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sN7crzKxbgG8IuBNTf/giphy.gif" width="100%" alt="Coding GIF" />
-    </td>
-  </tr>
+</td>
+<td valign="center" width="40%">
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzkybHhudWNtOGZjaTdudXkyMDIwdHBrNjEwMnNwZmoxZDU1cGJyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sN7crzKxbgG8IuBNTf/giphy.gif" width="100%" alt="Coding GIF" />
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -120,7 +122,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ezsumm/ezsumm/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/isumenuka/isumenuka/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -151,7 +153,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezsumm&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=isumenuka&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
